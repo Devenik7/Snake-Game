@@ -1,6 +1,6 @@
 # Snake Game
 
-A small Browser based Classic Snake game Replica.
+A small Browser based Classic Snake game Replica - https://devenik7.github.io/Snake-Game/
 
 Nothing much. Simply Learnig stuff.
 
